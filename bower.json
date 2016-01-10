@@ -16,5 +16,6 @@
   ],
   "dependencies": {
     "moment-timezone": "~0.4.0"
+	"moment-time":"~0.3.0"
   }
 }
